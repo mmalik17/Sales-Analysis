@@ -3,7 +3,7 @@ Analyze E-Commerce Purchases Based on region and job
 
 # Project Overview
 
-This folder contain 1 dataset, which is ecommerce purchase.csv
+Thi
 
 The goals of analyzing the dataset are:
 - analyze the relationship between the region and purchase price
