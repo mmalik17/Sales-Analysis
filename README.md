@@ -1,4 +1,7 @@
-# Sales-Analysis
+# Project Title
+Analyze E-Commerce Purchases Based on region and job
+
+# Project Overview
 
 This folder contain 1 dataset, which is ecommerce purchase.csv
 
