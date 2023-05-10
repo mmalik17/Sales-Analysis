@@ -8,5 +8,5 @@ The purpose of this project is giving the insight to the company about which reg
 1. Identify which state or city that give the highest revenue by looking at the highest purchase price column
 2. Identify which occupation that give the highest revenue by looking at the highest purchase price column
 
-<b> Challenge: </b>
+<b> Challenge: </b> <br>
 There is no column named 'region' in the dataset. The region data should be extracted from 'Full Address' column 
